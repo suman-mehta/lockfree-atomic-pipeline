@@ -1,0 +1,19 @@
+{
+  "name": "lockfree-atomic-pipeline",
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "lockfree",
+    "atomic",
+    "queue",
+    "concurrency",
+    "nodejs"
+  ],
+  "license": "MIT"
+}
